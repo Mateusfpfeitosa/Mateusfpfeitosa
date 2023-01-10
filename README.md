@@ -41,7 +41,7 @@
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
-
+![snake gif](https://github.com/Mateusfpfeitosa/Mateusfpfeitosa/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Mateusfpfeitosa}/count.svg" /></p> 
